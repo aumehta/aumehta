@@ -1,6 +1,15 @@
-# Hi there!👋
+# Hi there!👋<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
+
 I'm Arohi Mehta, a junior at Case Western Reserve University studying Computer Science. 
 Welcome to my page!
+
+## Here's a little about me:
+
+- 🔭 I'm a Junior studying CS @ CWRU 
+
+- 👨‍💻 I'm currently an SWE Intern @ Workiva, a Research Student @ Cleveland Clinic, the founder and president of ACM-W @ CWRU , and the Co-President of Girls Who Code @ CWRU 
+
+- 📫 You can reach me @ **mehtaarohi@gmail.com**
 
 ## My Skills 
 ### Languages 💻
