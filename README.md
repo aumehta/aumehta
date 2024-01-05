@@ -11,6 +11,9 @@ Welcome to my page!
 
 - 📫 You can reach me @ **mehtaarohi@gmail.com**
 
+  ![Snake animation](https://github.com/aumehta/aumehta/blob/output/github-contribution-grid-snake.svg)
+
+
 ## My Skills 
 ### Languages 💻
 <h3> Programming Languages</h3>
