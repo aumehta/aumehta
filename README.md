@@ -1,6 +1,6 @@
 # Hi there!👋<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif">
 
-I'm Arohi Mehta, a junior at Case Western Reserve University studying Computer Science. 
+I'm Arohi Mehta. 
 Welcome to my page!
 
 ## Here's a little about me:
