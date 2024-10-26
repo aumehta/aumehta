@@ -7,7 +7,7 @@ Welcome to my page!
 
 - 🔭 I'm a Junior studying CS @ CWRU 
 
-- 👨‍💻 I'm currently an SWE Intern @ Workiva, a Research Student @ Cleveland Clinic, the founder and president of ACM-W @ CWRU , and the Co-President of Girls Who Code @ CWRU 
+- 👨‍💻 I'm currently an Product Engineering Intern @ NameCoach, a Research Student @ Cleveland Clinic, the founder and president of ACM-W @ CWRU , and the Co-President of Girls Who Code @ CWRU 
 
 - 📫 You can reach me @ **mehtaarohi@gmail.com**
 
