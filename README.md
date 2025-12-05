@@ -5,9 +5,7 @@ Welcome to my page!
 
 ## Here's a little about me:
 
-- 🔭 I'm a Junior studying CS @ CWRU 
-
-- 👨‍💻 I'm currently an Product Engineering Intern @ NameCoach, a Research Student @ Cleveland Clinic, the founder and president of ACM-W @ CWRU , and the Co-President of Girls Who Code @ CWRU 
+- 🔭 I'm a Data Engineer @ Sprout Social
 
 - 📫 You can reach me @ **mehtaarohi@gmail.com**
 
